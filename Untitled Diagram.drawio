@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T17:36:48.453Z" agent="5.0 (Windows)" etag="9iCMEiSNSbsbvaiDw41n" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-14T17:37:41.098Z" agent="5.0 (Windows)" etag="zg0hTBqh7lUPYo_8Rsk6" version="13.6.10" type="github">
   <diagram id="xkPVVU98Jwx8Gxr5zT9T" name="Page-1">
     <mxGraphModel dx="868" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -62,6 +62,12 @@
         </mxCell>
         <mxCell id="MTbE8OdjCK04OEq8-i73-22" value="Enter Number of years:" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="530" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MTbE8OdjCK04OEq8-i73-26" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="500" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MTbE8OdjCK04OEq8-i73-27" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="650" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
